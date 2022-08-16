@@ -1,5 +1,5 @@
 # website-for-movie
-his web app has similar user interface like NETFLIX. The main reason behind building this web app is to implement a tries data structure to give autocomple (suggestion) feature for user & in this web app we can filter movies by searching.(uses searching algorithm).
+This web app has similar user interface like NETFLIX. The main reason behind building this web app is to implement a tries data structure to give autocomple (suggestion) feature for user & in this web app we can filter movies by searching.(uses searching algorithm).
 
 NOTE:
 
